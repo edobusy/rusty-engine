@@ -1,0 +1,6 @@
+target/
+.vscode/
+
+# Personal notes and files
+docs/
+course/
